@@ -1,4 +1,4 @@
-# [Qtrip](https://qtrip-app-vinay.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/e81fbb5d-6c15-4c1b-bd3e-765913827d41/deploy-status)](https://app.netlify.com/sites/qtrip-app-vinay/deploys)
+# [Qtrip](https://qtrip-app-vinay.netlify.app/) ![Netlify Status](https://api.netlify.com/api/v1/badges/e81fbb5d-6c15-4c1b-bd3e-765913827d41/deploy-status)
 
 This a dynamic website built with an objective of getting better understanding of plain HTML, CSS and JavaScript. It uses a backend server deployed on Heroku.
 
